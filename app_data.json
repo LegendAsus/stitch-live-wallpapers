@@ -1,69 +1,69 @@
 {
     "wallpapers": [
-        "popppy/1.jpg",
-        "popppy/2.jpg",
-        "popppy/3.jpg",
-        "popppy/4.jpg",
-        "popppy/5.jpg",
-        "popppy/6.jpg",
-        "popppy/7.jpg",
-        "popppy/8.jpg",
-        "popppy/9.jpg",
-        "popppy/10.jpg",
-        "popppy/11.jpg",
-        "popppy/12.jpg",
-        "popppy/13.jpg",
-        "popppy/14.jpg",
-        "popppy/15.jpg",
-        "popppy/16.jpg",
-        "popppy/17.jpg",
-        "popppy/18.jpg",
-        "popppy/19.jpg",
-        "popppy/20.jpg",
-        "popppy/21.jpg",
-        "popppy/22.jpg",
-        "popppy/23.jpg",
-        "popppy/24.jpg",
-        "popppy/25.jpg",
-        "popppy/26.jpg",
-        "popppy/27.jpg",
         "popppy/28.jpg",
-        "popppy/29.jpg",
-        "popppy/30.jpg",
+        "popppy/16.jpg",
+        "popppy/6.jpg",
+        "popppy/22.jpg",
         "popppy/31.jpg",
-        "popppy/32.jpg",
-        "popppy/33.jpg",
-        "popppy/34.jpg",
-        "popppy/35.jpg",
-        "popppy/36.jpg",
+        "popppy/2.jpg",
+        "popppy/13.jpg",
+        "popppy/20.jpg",
         "popppy/37.jpg",
-        "popppy/38.jpg",
-        "popppy/39.jpg",
-        "popppy/40.jpg",
-        "popppy/41.jpg",
-        "popppy/42.jpg",
-        "popppy/43.jpg",
-        "popppy/44.jpg",
-        "popppy/45.jpg",
-        "popppy/46.jpg",
-        "popppy/47.jpg",
+        "popppy/19.jpg",
+        "popppy/21.jpg",
         "popppy/48.jpg",
+        "popppy/4.jpg",
+        "popppy/9.jpg",
         "popppy/49.jpg",
+        "popppy/1.jpg",
+        "popppy/23.jpg",
+        "popppy/36.jpg",
+        "popppy/7.jpg",
+        "popppy/41.jpg",
+        "popppy/43.jpg",
+        "popppy/38.jpg",
+        "popppy/10.jpg",
+        "popppy/25.jpg",
+        "popppy/24.jpg",
+        "popppy/39.jpg",
+        "popppy/35.jpg",
+        "popppy/8.jpg",
+        "popppy/11.jpg",
+        "popppy/3.jpg",
+        "popppy/47.jpg",
+        "popppy/14.jpg",
+        "popppy/45.jpg",
         "popppy/50.jpg",
-        "popppy/51.jpg"
+        "popppy/42.jpg",
+        "popppy/40.jpg",
+        "popppy/29.jpg",
+        "popppy/51.jpg",
+        "popppy/12.jpg",
+        "popppy/5.jpg",
+        "popppy/26.jpg",
+        "popppy/34.jpg",
+        "popppy/46.jpg",
+        "popppy/27.jpg",
+        "popppy/17.jpg",
+        "popppy/30.jpg",
+        "popppy/15.jpg",
+        "popppy/18.jpg",
+        "popppy/33.jpg",
+        "popppy/44.jpg",
+        "popppy/32.jpg"
     ],
     "live_wallpapers": [
         {
-            "video": "live_wallpapers/2.mp4",
-            "thumbnail": "live_wallpapers/2.png"
-        },
-        {
-            "video": "live_wallpapers/3.mp4",
-            "thumbnail": "live_wallpapers/3.png"
+            "video": "live_wallpapers/7.mp4",
+            "thumbnail": "live_wallpapers/7.png"
         },
         {
             "video": "live_wallpapers/4.mp4",
             "thumbnail": "live_wallpapers/4.png"
+        },
+        {
+            "video": "live_wallpapers/2.mp4",
+            "thumbnail": "live_wallpapers/2.png"
         },
         {
             "video": "live_wallpapers/5.mp4",
@@ -72,14 +72,6 @@
         {
             "video": "live_wallpapers/6.mp4",
             "thumbnail": "live_wallpapers/6.png"
-        },
-        {
-            "video": "live_wallpapers/7.mp4",
-            "thumbnail": "live_wallpapers/7.png"
-        },
-        {
-            "video": "live_wallpapers/8.mp4",
-            "thumbnail": "live_wallpapers/8.png"
         },
         {
             "video": "live_wallpapers/9.mp4",
@@ -92,61 +84,69 @@
         {
             "video": "live_wallpapers/11.mp4",
             "thumbnail": "live_wallpapers/11.png"
+        },
+        {
+            "video": "live_wallpapers/8.mp4",
+            "thumbnail": "live_wallpapers/8.png"
+        },
+        {
+            "video": "live_wallpapers/3.mp4",
+            "thumbnail": "live_wallpapers/3.png"
         }
     ],
     "keyboards": [
-        "keyboards/1.jpg",
-        "keyboards/2.jpg",
-        "keyboards/3.jpg",
-        "keyboards/4.jpg",
-        "keyboards/5.jpg",
-        "keyboards/6.jpg",
-        "keyboards/7.jpg",
-        "keyboards/8.jpg",
-        "keyboards/9.jpg",
-        "keyboards/10.jpg",
-        "keyboards/11.jpg",
-        "keyboards/12.jpg",
-        "keyboards/13.jpg",
         "keyboards/14.jpg",
-        "keyboards/15.jpg",
-        "keyboards/16.jpg",
-        "keyboards/17.jpg",
-        "keyboards/18.jpg",
-        "keyboards/19.jpg",
-        "keyboards/20.jpg",
-        "keyboards/21.jpg",
-        "keyboards/22.jpg",
-        "keyboards/23.jpg",
-        "keyboards/24.jpg",
-        "keyboards/25.jpg",
-        "keyboards/26.jpg",
+        "keyboards/5.jpg",
+        "keyboards/11.jpg",
+        "keyboards/1.jpg",
         "keyboards/27.jpg",
+        "keyboards/13.jpg",
+        "keyboards/6.jpg",
+        "keyboards/15.jpg",
+        "keyboards/23.jpg",
+        "keyboards/25.jpg",
+        "keyboards/9.jpg",
+        "keyboards/26.jpg",
+        "keyboards/12.jpg",
         "keyboards/28.jpg",
+        "keyboards/2.jpg",
+        "keyboards/30.jpg",
+        "keyboards/16.jpg",
+        "keyboards/10.jpg",
+        "keyboards/22.jpg",
         "keyboards/29.jpg",
-        "keyboards/30.jpg"
+        "keyboards/20.jpg",
+        "keyboards/24.jpg",
+        "keyboards/4.jpg",
+        "keyboards/18.jpg",
+        "keyboards/21.jpg",
+        "keyboards/19.jpg",
+        "keyboards/7.jpg",
+        "keyboards/17.jpg",
+        "keyboards/8.jpg",
+        "keyboards/3.jpg"
     ],
     "widgets": {
         "calendar": [
-            "popppy/1.jpg",
+            "popppy/5.jpg",
+            "popppy/4.jpg",
             "popppy/2.jpg",
             "popppy/3.jpg",
-            "popppy/4.jpg",
-            "popppy/5.jpg"
+            "popppy/1.jpg"
         ],
         "clock": [
+            "popppy/9.jpg",
             "popppy/6.jpg",
             "popppy/7.jpg",
-            "popppy/8.jpg",
-            "popppy/9.jpg",
-            "popppy/10.jpg"
+            "popppy/10.jpg",
+            "popppy/8.jpg"
         ],
         "digital_clock": [
-            "popppy/11.jpg",
+            "popppy/15.jpg",
             "popppy/12.jpg",
             "popppy/13.jpg",
-            "popppy/14.jpg",
-            "popppy/15.jpg"
+            "popppy/11.jpg",
+            "popppy/14.jpg"
         ]
     }
 }
